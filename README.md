@@ -49,7 +49,7 @@ technical_background:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seriousQA&show_icons=true&theme=dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousQA&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark)
 
-![Snake animation](https://github.com/seriousQA/seriousQA/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seriousQA/seriousQA/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
           
           
