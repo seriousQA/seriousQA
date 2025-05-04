@@ -63,7 +63,9 @@ technical_background:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" width="50" height="50"/>
-          
+<img src="https://github.com/user-attachments/assets/85bcf7d6-bb42-4eb4-b75f-57edd03e14d4" alt="ews" width="50" height="50"/>
+<img src="https://github.com/user-attachments/assets/4eb9684b-001d-4255-ba0f-6e34b9451ecd" alt="graph" width="50" height="50"/>
+  
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" alt="tortoisegit" width="50" height="50"/> 
 
@@ -72,8 +74,8 @@ technical_background:
 <img src="https://github.com/user-attachments/assets/b71f1be4-52da-4d90-8fc9-12a08a74dcb3" alt="squish" height="50"/> 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seriousQA&show_icons=true&theme=dark&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousQA&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seriousQA&show_icons=true&theme=transparent&rank_icon=github)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousQA&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent)
 
 ![Snake animation](https://github.com/seriousQA/seriousQA/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
