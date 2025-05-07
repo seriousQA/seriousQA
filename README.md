@@ -54,7 +54,7 @@ technical_background:
      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0alt" alt="macos" height="50"/>
+<img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=macos&logoSize=auto&logoColor=white" alt="macos" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" alt="nuget" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="50" height="50"/>
@@ -66,7 +66,7 @@ technical_background:
 <img src="https://github.com/user-attachments/assets/85bcf7d6-bb42-4eb4-b75f-57edd03e14d4" alt="ews" width="50" height="50"/>
 <img src="https://github.com/user-attachments/assets/4eb9684b-001d-4255-ba0f-6e34b9451ecd" alt="graph" width="50" height="50"/>
   
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" height="50"/>
+<img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=github&logoSize=auto&logoColor=white" alt="github" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" alt="tortoisegit" width="50" height="50"/> 
 
 <img src="https://github.com/user-attachments/assets/42bc9bf1-2963-40db-8f37-385e9297b9d7" alt="testcomplete" height="50"/> 
