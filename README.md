@@ -2,7 +2,7 @@
 ## A little bit about me and my background
 
 ```yaml
-name: Elena Vasilionak
+name: Alena T. (Elena Vasilionak)
 located: Stuttgart, Germany
 current_job: Test Automation Engineer
 education:
