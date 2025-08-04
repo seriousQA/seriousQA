@@ -24,7 +24,7 @@ technical_background:
 ]
 ```
 ## My current tech stack
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="sharp" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="net" height="50"/>
 <img src="https://github.com/user-attachments/assets/a862e7aa-2cb9-4075-8a13-a0f210b37747" alt="ranorex" height="50"/>
@@ -36,7 +36,7 @@ technical_background:
 </p>
 
 ## Tools and technologies I've used ##
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="50"/>
 <img src="https://github.com/user-attachments/assets/0de8b7b2-afb9-48f5-9273-ce2fc793379a" alt="mstest" height="50"/> 
 
