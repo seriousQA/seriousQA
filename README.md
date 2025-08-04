@@ -72,7 +72,7 @@ technical_background:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="swagger" height="50"/>
 <img src="https://github.com/user-attachments/assets/ca5353fd-30ab-4012-9c4d-992f9a80bc4c" alt="ews" height="50"/>
 <img src="https://github.com/user-attachments/assets/f6bc30c9-df7c-4b7a-90bc-b2a6f4890956" alt="graph" height="50"/>
-<img src="https://img.shields.io/badge/_-black?style=for-the-badge&logo=github&logoSize=auto&logoColor=white" alt="github" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" alt="tortoisegit" height="50"/> 
 
 <img src="https://github.com/user-attachments/assets/2ff3dd24-07b4-4245-b5ce-d82073c7f385" alt="testcomplete" height="50"/>
